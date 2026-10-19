@@ -1,0 +1,12 @@
+---------------------------------------------------------
+Car   Number Plate   Hours   Charge (RM)   Office Payment
+-----------------------------------------------------------
+1     PJE2312         1.50    RM5.00     No
+2     AJN6432         2.67    RM5.00     No
+3     VKN7634         4.50    RM5.75     No
+4     QWE3456         672.00  RM150.00   Yes
+5     XTR9102         991.00  RM500.00   Yes
+6     JKL5678         8776.00 RM1000.00  Yes
+7     ZTR3297         24.00   RM15.00    No
+TOTAL Hours   : 10471.67
+TOTAL Charges : RM1680.75

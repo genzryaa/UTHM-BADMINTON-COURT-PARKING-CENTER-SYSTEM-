@@ -1,0 +1,56 @@
+Timestamp: 2025-01-10 13:39:48
+Number Plate: PJE2312
+Date In: 2024-02-10 Time In: 10:30
+Date Out: 2024-02-10 Time Out: 12:00
+Hours Parked: 1.50
+Charge: RM5.00
+Office Payment: No
+------------------------------------------------------
+Timestamp: 2025-01-10 13:41:38
+Number Plate: AJN6432
+Date In: 2024-02-10 Time In: 10:20
+Date Out: 2024-02-10 Time Out: 13:00
+Hours Parked: 2.67
+Charge: RM5.00
+Office Payment: No
+------------------------------------------------------
+Timestamp: 2025-01-10 13:43:45
+Number Plate: VKN7634
+Date In: 2024-02-10 Time In: 16:00
+Date Out: 2024-02-10 Time Out: 20:30
+Hours Parked: 4.50
+Charge: RM5.75
+Office Payment: No
+------------------------------------------------------
+Timestamp: 2025-01-10 13:45:02
+Number Plate: QWE3456
+Date In: 2024-02-01 Time In: 22:00
+Date Out: 2024-02-29 Time Out: 22:00
+Hours Parked: 672.00
+Charge: RM150.00
+Office Payment: Yes
+------------------------------------------------------
+Timestamp: 2025-01-10 13:46:15
+Number Plate: XTR9102
+Date In: 2024-03-20 Time In: 18:00
+Date Out: 2024-05-01 Time Out: 01:00
+Hours Parked: 991.00
+Charge: RM500.00
+Office Payment: Yes
+------------------------------------------------------
+Timestamp: 2025-01-10 13:47:07
+Number Plate: JKL5678
+Date In: 2024-03-01 Time In: 20:00
+Date Out: 2025-03-02 Time Out: 12:00
+Hours Parked: 8776.00
+Charge: RM1000.00
+Office Payment: Yes
+------------------------------------------------------
+Timestamp: 2025-01-10 13:48:17
+Number Plate: ZTR3297
+Date In: 2024-02-01 Time In: 12:30
+Date Out: 2024-02-02 Time Out: 12:30
+Hours Parked: 24.00
+Charge: RM15.00
+Office Payment: No
+------------------------------------------------------
